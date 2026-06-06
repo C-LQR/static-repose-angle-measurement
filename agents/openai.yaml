@@ -1,0 +1,4 @@
+interface:
+  display_name: "闈欐€佷紤姝㈣娴嬮噺"
+  short_description: "浠庨绮掑爢鎴浘娴嬮噺闈欐€佷紤姝㈣鍜屾墿鏁ｈ窛绂诲苟鐢熸垚鏍囨敞鍥捐〃"
+  default_prompt: "Use $static-repose-angle-measurement to measure the static angle of repose, spreading distance, and create annotated outputs from my screenshot."
